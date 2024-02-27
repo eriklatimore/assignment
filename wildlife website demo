@@ -1,0 +1,120 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous"> 
+  </head>
+
+  <body>
+    <h1><b><i>WildLife Expo<i></b> </h1>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  </body>
+</html>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+</div>
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"><div class="text-primary text-opacity-75%">The Eric Experience</div> </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+        </li>
+      </ul>
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+<div class="container text-center">
+  <div class="row align-items-start">
+    <div class="col">
+      <div id="carouselExample" class="carousel slide">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://a-z-animals.com/media/2021/11/panda-bear-1024x535.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="https://media.istockphoto.com/id/1406962846/photo/zebras-in-the-african-savanna-at-sunset-serengeti-national-park-tanzania-africa-banner-format.webp?b=1&s=170667a&w=0&k=20&c=Z1aZ6eUb5BOsRGQY0sojypYFE69tribJDBIN8TvUfyA=" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="https://media.istockphoto.com/id/1063469224/photo/aerial-view-of-elephants-okavango-delta-botswana-africa.webp?b=1&s=170667a&w=0&k=20&c=gv1Q6J855AWRu56ojJj_cuCTShBK-G13lQ75XvrgIyc=" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+<P>
+
+
+</p>
+<p>Asia is the world’s most populous and biggest continent in the Northern and Eastern hemispheres, with the world’s longest coastline and the highest and lowest points on the Earth’s surface. It includes countries such as China, Korea, Japan, Siberia, and India, Southeast Asian countries such as Singapore, and a few countries in the Middle East.</p>
+
+<p>It has a mostly dry climate throughout, with the biggest weather extremes in the west, and monsoons affecting the south and east. Habitats range from deserts, mountains, forests, and tropical jungles to urban areas.<b></p>
+
+<p>Such a vast and varied landscape with several remote regions mean Asian wildlife is just as diverse. Join us as we take a closer look at Asia animals.</p>
+<div class="container text-center">
+  <div class="row align-items-start">
+    <div class="col">
+      O<div class="card" style="width: 18rem;">
+  <img src="https://images.lifestyleasia.com/wp-content/uploads/sites/6/2022/03/04111335/amandari-indonesia-suite-exterior-and-pool_original_11588-2-1401x900.jpg?tr=w-1366" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Asia</h5>
+    <p class="card-text">a serene tropical paradise with abundant lush greens, vast open skies, clear waters, and some of the most hospitable people around. A place where culture, culinary delights, and art lie at the centre of its soul with its heart beating to the rhythm of traditional music. A place where time stands still and lulls you into a rejuvenating stupor that’s nothing short of a daydream. That’s Indonesia’s Bali for you.</p>
+    <a href="https://www.lifestyleasia.com/sg/travel/asia/best-luxury-resorts-in-bali-for-a-dream-vacation/" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+    </div>
+    <div class="col">
+      <div class="card" style="width: 18rem;">
+  <img src="https://images.lifestyleasia.com/wp-content/uploads/sites/6/2022/03/31120201/alfiano-sutianto-exFdOWkYBQw-unsplash-806x538.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Alfiano Sutianto/Unsplash</h5>
+    <p class="card-text">While some are nestled in the quiet corners of the island, others are situated atop a cliff or by the ocean for picturesque views. As much as this ‘Island of Gods’ has marvels to explore and adventures to indulge in, the best luxury resorts in Bali make a strong case for staying in..</p>
+    <a href="https://www.lifestyleasia.com/sg/travel/asia/best-luxury-resorts-in-bali-for-a-dream-vacation/" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+    </div>
+    <div class="col">
+      <div class="card" style="width: 18rem;">
+  <img src="https://images.lifestyleasia.com/wp-content/uploads/sites/6/2022/03/30200156/wp-contentuploadssites3202203301337404-3-747x560.jpeg?tr=w-1000" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Sofitel Bali Nusa Dua Beach Resort</h5>
+    <p class="card-text">One of the most popular resorts in Nusa Dua, Sofitel is a french-inspired beachfront resort with plenty of lush greenery around it. While it has 415 rooms — which includes 39 villas and suites — the place also boasts ballrooms, different restaurants and bars, a spa, and a gym and kids club</p>
+    <a href="https://www.lifestyleasia.com/sg/travel/asia/best-luxury-resorts-in-bali-for-a-dream-vacation/" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+    </div>
+  </div>
+</div>
+   
